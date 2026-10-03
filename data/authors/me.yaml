@@ -18,6 +18,9 @@ links:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=3S_V-uoAAAAJ
     label: Google Scholar
+  - icon: academicons/pubmed
+    url: https://www.ncbi.nlm.nih.gov/myncbi/jyot.antani.2/bibliography/public/
+    label: NCBI Bibliography (PubMed)
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jyotantani
     label: LinkedIn
